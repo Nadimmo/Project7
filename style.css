@@ -143,3 +143,11 @@ nav a:hover {
   color: #333;
   line-height: 1.5;
 }
+
+@media screen {
+  body{
+    max-width: 434;
+    max-height: 1542;
+  }
+  
+}
